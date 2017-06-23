@@ -1,0 +1,9 @@
+Mover o
+
+Disco1	da Torre1 para a Torre3
+Disco2	da Torre1 para a Torre2
+Disco1	da Torre3 para a Torre2
+Disco3	da Torre1 para a Torre3
+Disco1	da Torre2 para a Torre1
+Disco2	da Torre2 para a Torre3
+Disco1	da Torre1 para a Torre3
